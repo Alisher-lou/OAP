@@ -1,0 +1,7 @@
+print()
+print("Аты-жөні", "Алжан Алишер", sep=": ")
+print("Тобы", "ТИИ 26-11", sep=": ")
+print("Курс: ", end="")
+print("1")
+print("Мамандығы", "ЖИТ", sep=": ")
+print("Электрондық пошта", "alisheralzhan24@gmail.com", sep=": ")
